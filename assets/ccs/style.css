@@ -1,0 +1,183 @@
+.phone-logo {
+   flex-direction: column; 
+     
+}
+.header1 {
+    text-align: center;
+    
+}
+.phone-logo img {
+    
+    height: 3rem;
+    
+}
+.phone-logo a {
+    
+    color: black;
+    font-size: 1rem;
+    text-decoration: none;
+    font-family: 'Fredoka One', cursive
+    
+}
+.menu-nvbr {
+    border: 1px solid black;
+}
+.slider img{
+   height: 750px;
+}
+
+.ara-kisim {
+    border-right: 0.2rem solid blue;
+    padding-right: 3rem;
+    text-align-last: end;
+    width: 300px;
+    height: 120px;
+}
+
+
+.product {
+    
+    text-align: left;
+    background-color: #F8F8F8;
+    padding-left: 2rem;
+    
+}
+.product:hover {
+    background-color: #5771BD;
+    transition: 0.5s;
+}
+.product span {
+    border-bottom: 5px solid yellow ;
+  
+}
+.product-img {
+    margin-right: -5rem;
+    }
+.neler-yaptik  span {
+    border-bottom: 3px solid yellow;
+}
+.marquee1 img {
+    padding-left: 2rem;
+    
+}
+.shadow1  {
+    width: 100%;
+    height: auto;
+    display: flex;
+    background: #5771BD;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-flow: wrap;
+}
+.boxes {
+    
+    height: auto;
+    padding: 0;
+    filter: grayscale(100%);
+    
+}
+.box {
+    padding: 0%;    
+    transition: 0.5s;
+    
+}
+.boxes:hover {
+    filter: grayscale(0%);
+    padding-bottom: 8rem;
+    transition: 1s;
+    
+}
+.box-contents {
+    margin-top: -8rem;
+    text-align: none;
+    color: black;
+}
+
+
+
+.shadow-yetis span {
+    border-bottom: 3px solid yellow;
+
+}
+.certificate {
+    text-align: center;
+}
+.bize-ulasin {
+    text-align: center;
+    background-color: #5771BD;
+    color: white;
+    align-items: center;
+    text-transform: uppercase;
+}
+.bize-ulasin button {
+    background-color: yellow;
+    width: 150px;
+    margin: 5px;
+    text-align: center;
+    border-radius: 10px;
+}
+.bize-ulasin button:hover {
+    background-color: black;
+    color: white;
+}
+.footer {
+    background-color: #2B2D33;
+    color: white;
+}
+.taniyin-arkaplan {
+    background-color: #4D5C87;
+
+}
+.kurumsal-taniyin {
+    height: 200px;
+    color: white;
+    
+}
+
+.referans-img {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+}
+.referans-img:hover {
+    margin: 1px;
+    
+}
+.bize-ulasin-text {
+    text-align: center;
+}
+#bize-ulasin-msj {
+    height: 200px;
+    width: 100%;
+    overflow: hidden;
+
+}
+
+.bize-ulasin-box {
+    width: 300px;
+    height: 200px;
+    border: 2px solid #5771BD;
+    padding: 15px;
+    text-align: center;
+    margin: 5px;
+    margin-left: 80px;
+    box-shadow: 7px 7px #5771BD;
+     
+    
+}
+.bize-ulasin-box h5 {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+    text-decoration-color: red;
+    
+}
+.fotoselli-kapilar-alt span {
+    text-transform: uppercase;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+
+
+
